@@ -1,4 +1,4 @@
-[Startseite](/abele-private/doku-html) > Referenz >
+[Startseite](/) > Referenz >
 
 # Elemente (Alphabetisch)
 
