@@ -5,4 +5,4 @@
 
 ## Referenz
 
-- [Elemente (Alphabetisch)](./doku-html/blob/main/Referenz/Elemente_Alphabetisch.md)
+- [Elemente (Alphabetisch)](./Referenz/Elemente_Alphabetisch.md)
