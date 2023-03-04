@@ -1,8 +1,8 @@
 [Startseite](../../../../) > Referenz > [Elemente](../Elemente_Alphabetisch.md) >
 
-# \<a>: Das Anker-Element
+# \<a>
 
-Das `<a>`-Element (oder Anker-Element) stellte früher einen Ankerverweis in einem HTML-Dokument dar, auf das per vorangestelltem Hash-Zeichen (#) verwiesen werden konnte. Heute übernimmt dies das `id`-Attribut.
+Das `<a>`-Element ("a" für Anker, daher auch Anker-Element) stellte früher einen Ankerverweis in einem HTML-Dokument dar, auf das per vorangestelltem Hash-Zeichen (#) verwiesen werden konnte. Heute übernimmt dies das `id`-Attribut.
 
 Alte Version:
 ```html
@@ -17,7 +17,7 @@ Neue Version:
 ```
 Das `id`-Attribut ist global und kann in jedem Element verwendet werden.
 
-Heute wird das `<a>`-Element immer mit dem `href`-Attribut verwendet um auf eine Webseite, Datei, E-Mail-Adresse, Telefonnummer und so weiter zu verweisen. Wenn das `href`-Attribut vorhanden ist, wird es durch Drücken der Eingabetaste (zum Beispiel Mausklick, Enter-Taste) aktiviert, während der Fokus auf dem `a`-Element liegt. Ein Element ohne oder mit leerem `href`-Attribut ist immer, nur ein Platzhalter für einen Link.
+Heute wird das `<a>`-Element immer mit dem `href`-Attribut verwendet um auf eine Webseite, Datei, E-Mail-Adresse, Telefonnummer und so weiter zu verweisen. Wenn das `href`-Attribut vorhanden ist, wird es durch Drücken der Eingabetaste (zum Beispiel Mausklick, Enter-Taste) aktiviert, während der Fokus auf dem `<a>`-Element liegt. Ein Element ohne oder mit leerem `href`-Attribut ist immer, nur ein Platzhalter für einen Link.
 
 HTML-5-Standard:
 ```html
@@ -33,6 +33,7 @@ Standardmäßig werden Links in allen Browsern wie folgt dargestellt:
 ## Attribute
 
 Dieses Element unterstützt [globale Attribute](../Elemente_Alphabetisch.md).
+
 Dieses Element unterstützt [Ereignisattribute](../Ereignisattribute.md).
 
 ### href
@@ -256,7 +257,7 @@ Das `target`-Attribut gibt an, wo der Browser das verknüpfte Dokument öffnen s
 | _self | öffnet das verknüpfte Dokument in demselben Rahmen, in dem es angeklickt wurde (Standardeinstellung) |
 | _parent | wird in der nächsten übergeordneten Anzeige-Ebene der aktuellen Anzeige geöffnet, wenn kein übergeordnete Anzeige-Ebene vorhanden ist, verhält es sich wie `_self` |
 | _top | wird in der höchsten übergeordneten Anzeige-Ebene der aktuellen Anzeige geöffnet, wenn kein übergeordnete Anzeige-Ebene vorhanden ist, verhält es sich wie `_self` |
-| _Frame-Name_ | öffnet das verknüpfte Dokument in dem benannten Frame oder Iframe |
+| _iFrame-Name_ | öffnet das verknüpfte Dokument in dem benannten Frame oder Iframe |
 
 ### type
 

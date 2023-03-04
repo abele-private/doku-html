@@ -8,9 +8,9 @@
 | ------- | ------------ | ------- |
 | [\<a>](./Elemente/a.md) | definiert einen Verweis (Hyperlink) |  |
 | [\<abbr>](./Elemente/abbr.md) | definiert eine Abkürzung oder ein Akronym |  |
-| [\<acronym>](./Elemente/acronym.md) | definiert ein Akronym |  |
+| [\<acronym>](./Elemente/acronym.md) | definiert ein Akronym | **VERALTET** |
 | [\<address>](./Elemente/address.md) | definiert die Kontaktinformationen für den Autor/Eigentümer eines Dokuments |  |
-| [\<applet>](./Elemente/applet.md) | definiert ein eingebettetes Applet |  |
+| [\<applet>](./Elemente/applet.md) | definiert ein eingebettetes Applet | **VERALTET** |
 | [\<area>](./Elemente/area.md) | definiert einen Bereich innerhalb einer Image-Map |  |
 | [\<article>](./Elemente/article.md) | definiert einen Artikel |  |
 | [\<aside>](./Elemente/aside.md) | definiert den Inhalt außerhalb des Seiteninhalts |  |
@@ -22,10 +22,12 @@
 | ------- | ------------ | ------- |
 | [\<b>](./Elemente/b.md) | definiert einen Text in Fettschrift |  |
 | [\<base>](./Elemente/base.md) | definiert die Basis-URL beziehungsweise das Ziel für alle relativen URLs in einem Dokument |  |
-| [\<basefont>](./Elemente/basefont.md) | definiert eine Standardfarbe, -größe und -schriftart für den gesamten Text in einem Dokument |  |
+| [\<basefont>](./Elemente/basefont.md) | definiert eine Standardfarbe, -größe und -schriftart für den gesamten Text in einem Dokument | **VERALTET** |
 | [\<bdi>](./Elemente/bdi.md) | isoliert einen Teil des Textes, der möglicherweise in einer anderen Richtung formatiert ist als der übrige Text außerhalb des Elements |  |
 | [\<bdo>](./Elemente/bdo.md) | überschreibt die aktuelle Textrichtung |  |
-| [\<big>](./Elemente/big.md) | definiert einen Text mit größerer Schriftgröße |  |
+| [\<bgsound>](./Elemente/bgsound.md) | spielt eine Audiodatei im Hintergrund ab | **VERALTET** |
+| [\<big>](./Elemente/big.md) | definiert einen Text mit größerer Schriftgröße | **VERALTET** |
+| [\<blink>](./Elemente/blink.md) | definiert einen blinkenden Text | **VERALTET** |
 | [\<blockquote>](./Elemente/blockquote.md) | definiert einen Abschnitt, der aus einer anderen Quelle zitiert wird |  |
 | [\<body>](./Elemente/body.md) | definiert den sichtbaren Hauptteil des Dokuments |  |
 | [\<br>](./Elemente/br.md) | definiert einen einzelnen Zeilenumbruch |  |
@@ -37,11 +39,12 @@
 | ------- | ------------ | ------- |
 | [\<canvas>](./Elemente/canvas.md) | wird zum Zeichnen von Grafiken im laufenden Betrieb über Skripte (normalerweise JavaScript) verwendet |  |
 | [\<caption>](./Elemente/caption.md) | definiert eine Tabellenbeschriftung |  |
-| [\<center>](./Elemente/center.md) | definiert einen zentrierten Text |  |
+| [\<center>](./Elemente/center.md) | definiert einen zentrierten Text | **VERALTET** |
 | [\<cite>](./Elemente/cite.md) | definiert den Titel eines Werks (Zitat) |  |
 | [\<code>](./Elemente/code.md) | definiert ein Stück Computercode |  |
 | [\<col>](./Elemente/col.md) | definiert die Spalteneigenschaften für jede Spalte innerhalb eines `<colgroup>`-Elements |  |
 | [\<colgroup>](./Elemente/colgroup.md) | definiert eine Gruppe von einer oder mehreren Spalten in einer Tabelle für die Formatierung |  |
+| [\<content>](./Elemente/content.md) | wurde innerhalb von Shadow DOM als Einfügepunkt verwendet und war nicht für die Verwendung in normalem HTML gedacht, es wurde durch das `<slot>`-Element ersetzt, das einen Punkt im DOM erzeugt, an dem ein Shadow DOM eingefügt werden kann | **VERALTET** |  
 
 ## D
 
@@ -76,8 +79,8 @@
 | [\<font>](./Elemente/font.md) | definiert die Schriftart, Farbe und Größe eines Texts |  |
 | [\<footer>](./Elemente/footer.md) | definiert eine Fußzeile für ein Dokument oder einen Abschnitt |  |
 | [\<form>](./Elemente/form.md) | definiert ein HTML-Formular für Benutzereingaben |  |
-| [\<frame>](./Elemente/frame.md) | definiert ein Fenster (einen Rahmen) in einem Frameset |  |
-| [\<frameset>](./Elemente/frameset.md) | definiert eine Gruppe von Rahmen |  |
+| [\<frame>](./Elemente/frame.md) | definiert ein Fenster (einen Rahmen) in einem Frameset | **VERALTET** |
+| [\<frameset>](./Elemente/frameset.md) | definiert eine Gruppe von Rahmen | **VERALTET** |
 
 ## H
 
@@ -134,7 +137,7 @@
 | Element | Beschreibung | Version |
 | ------- | ------------ | ------- |
 | [\<nav>](./Elemente/nav.md) | definiert eine Navigation |  |
-| [\<noframes>](./Elemente/noframes.md) | definiert einen alternativen Inhalt für Browser, die keine Frames unterstützen |  |
+| [\<noframes>](./Elemente/noframes.md) | definiert einen alternativen Inhalt für Browser, die keine Frames unterstützen | **VERALTET** |
 | [\<noscript>](./Elemente/noscript.md) | definiert einen alternativen Inhalt für Browser, die keine clientseitigen Skripte unterstützen |  |
 
 ## O
@@ -183,7 +186,7 @@
 | [\<small>](./Elemente/small.md) | definiert einen Text mit kleinerer Schriftgröße |  |
 | [\<source>](./Elemente/source.md) | definiert mehrere Medienressourcen für ein Medienelemente (`<video>` und `<audio>`) |  |
 | [\<span>](./Elemente/span.md) | definiert einen Abschnitt in einem Absatz |  |
-| [\<strike>](./Elemente/strike.md) | definiert einen durchgestrichenen Text |  |
+| [\<strike>](./Elemente/strike.md) | definiert einen durchgestrichenen Text | **VERALTET** |
 | [\<strong>](./Elemente/strong.md) | definiert einen wichtigen Text |  |
 | [\<style>](./Elemente/style.md) | definiert Stilinformationen (CSS) für ein Dokument |  |
 | [\<sub>](./Elemente/sub.md) | definiert einen tiefgestellten Text |  |

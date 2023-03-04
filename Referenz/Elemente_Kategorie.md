@@ -190,8 +190,11 @@
 | [\<acronym>](./Elemente/acronym.md) | definiert ein Akronym |  |
 | [\<applet>](./Elemente/applet.md) | definiert ein eingebettetes Applet |  |
 | [\<basefont>](./Elemente/basefont.md) | definiert eine Standardfarbe, -größe und -schriftart für den gesamten Text in einem Dokument |  |
+| [\<bgsound>](./Elemente/bgsound.md) | spielt eine Audiodatei im Hintergrund ab |  |
 | [\<big>](./Elemente/big.md) | definiert einen Text mit größerer Schriftgröße |  |
+| [\<blink>](./Elemente/blink.md) | definiert einen blinkenden Text |  |
 | [\<center>](./Elemente/center.md) | definiert einen zentrierten Text |  |
+| [\<content>](./Elemente/content.md) | wurde innerhalb von Shadow DOM als Einfügepunkt verwendet und war nicht für die Verwendung in normalem HTML gedacht, es wurde durch das `<slot>`-Element ersetzt, das einen Punkt im DOM erzeugt, an dem ein Shadow DOM eingefügt werden kann |  |  
 | [\<dir>](./Elemente/dir.md) | definiert eine Verzeichnisliste |  |
 | [\<font>](./Elemente/font.md) | definiert die Schriftart, Farbe und Größe eines Texts |  |
 | [\<frame>](./Elemente/frame.md) | definiert ein Fenster (einen Rahmen) in einem Frameset |  |
