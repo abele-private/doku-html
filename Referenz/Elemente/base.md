@@ -14,7 +14,7 @@ Es darf nur ein einziges `<base>`-Element in einem Dokument geben, und es muss s
 
 ## Attribute
 
-Dieses Element unterstützt [globale Attribute](../Elemente_Alphabetisch.md).
+Dieses Element unterstützt [globale Attribute](../Globale_Attribute.md).
 
 Dieses Element unterstützt [Ereignisattribute](../Ereignisattribute.md).
 

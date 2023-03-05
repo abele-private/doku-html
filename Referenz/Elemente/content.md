@@ -2,6 +2,8 @@
 
 # \<content>
 
+**VERALTET**
+
 Das `<content>`-Element ist ein veralteter Teil der _Web Components suite of technologies_ und wurde innerhalb von Shadow DOM als Einfügepunkt verwendet und war nicht für die Verwendung in normalem HTML gedacht. Es wurde durch das `<slot>`-Element ersetzt, das einen Punkt im DOM erzeugt, an dem ein Shadow DOM eingefügt werden kann.
 
 ```html
@@ -21,7 +23,7 @@ Das `<content>`-Element ist ein veralteter Teil der _Web Components suite of tec
 
 ## Attribute
 
-Dieses Element unterstützt [globale Attribute](../Elemente_Alphabetisch.md).
+Dieses Element unterstützt [globale Attribute](../Globale_Attribute.md).
 
 ## select
 

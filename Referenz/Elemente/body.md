@@ -13,7 +13,7 @@ Das `<body>`-Element stellt den sichtbaren Inhalt eines HTML-Dokuments dar. Es w
 
 ## Attribute
 
-Dieses Element unterstützt [globale Attribute](../Elemente_Alphabetisch.md).
+Dieses Element unterstützt [globale Attribute](../Globale_Attribute.md).
 
 Dieses Element unterstützt [Ereignisattribute](../Ereignisattribute.md).
 

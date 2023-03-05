@@ -18,7 +18,7 @@ Das Element kann in den Fällen nützlich sein, wenn die Daten in einem bestimmt
 
 ## Attribute
 
-Dieses Element unterstützt [globale Attribute](../Elemente_Alphabetisch.md).
+Dieses Element unterstützt [globale Attribute](../Globale_Attribute.md).
 
 Dieses Element unterstützt [Ereignisattribute](../Ereignisattribute.md).
 

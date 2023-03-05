@@ -11,6 +11,6 @@ Gemäß der HTML5-Spezifikation sollte das `<b>`-Tag als LETZTER Ausweg verwende
 
 ## Attribute
 
-Dieses Element unterstützt [globale Attribute](../Elemente_Alphabetisch.md).
+Dieses Element unterstützt [globale Attribute](../Globale_Attribute.md).
 
 Dieses Element unterstützt [Ereignisattribute](../Ereignisattribute.md).

@@ -19,7 +19,7 @@ Das `<area>`-Element bestimmt die aktiven Bereiche einer Image-Map (Koordinate, 
 
 ## Attribute
 
-Dieses Element unterstützt [globale Attribute](../Elemente_Alphabetisch.md).
+Dieses Element unterstützt [globale Attribute](../Globale_Attribute.md).
 
 Dieses Element unterstützt [Ereignisattribute](../Ereignisattribute.md).
 

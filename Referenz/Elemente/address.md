@@ -12,3 +12,9 @@ Das `<address>`-Element umschließt die Kontaktinformationen des Autors/Eigentü
 ```
 
 Bei den Kontaktinformationen kann es sich um eine E-Mail-Adresse, eine URL, eine physische Adresse, eine Telefonnummer, ein Handle für soziale Medien und so weiter handeln. Der vom Element umschlossen Text wird in der Regel kursiv dargestellt, die Browser fügen immer einen Zeilenumbruch vor und nach dem Element ein.
+
+## Attribute
+
+Dieses Element unterstützt [globale Attribute](../Globale_Attribute.md).
+
+Dieses Element unterstützt [Ereignisattribute](../Ereignisattribute.md).

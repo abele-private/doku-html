@@ -12,7 +12,7 @@ Das `<blockquote>`-Element wird für die Betonung von langen Zitaten verwendet. 
 
 ## Attribute
 
-Dieses Element unterstützt [globale Attribute](../Elemente_Alphabetisch.md).
+Dieses Element unterstützt [globale Attribute](../Globale_Attribute.md).
 
 Dieses Element unterstützt [Ereignisattribute](../Ereignisattribute.md).
 

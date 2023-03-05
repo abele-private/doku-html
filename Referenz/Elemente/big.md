@@ -12,4 +12,4 @@ Das `<big>`-Element wurde in HTML 4 verwendet, um die Schriftgröße um eine kon
 
 ## Attribute
 
-Dieses Element unterstützt [globale Attribute](../Elemente_Alphabetisch.md).
+Dieses Element unterstützt [globale Attribute](../Globale_Attribute.md).

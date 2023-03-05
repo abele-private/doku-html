@@ -14,6 +14,6 @@ Das `<aside>`-Element stellt einen Teil eines Dokuments dar, dessen Inhalt nur i
 
 ## Attribute
 
-Dieses Element unterstützt [globale Attribute](../Elemente_Alphabetisch.md).
+Dieses Element unterstützt [globale Attribute](../Globale_Attribute.md).
 
 Dieses Element unterstützt [Ereignisattribute](../Ereignisattribute.md).
